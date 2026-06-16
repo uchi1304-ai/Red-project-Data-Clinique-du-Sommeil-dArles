@@ -1,0 +1,1 @@
+SELECT * FROM suivi_patient WHERE id_patient = 1
